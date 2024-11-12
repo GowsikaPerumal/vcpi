@@ -1,6 +1,8 @@
 balvcpi
 
+https://tinyurl.com/m121124m
 
+pip install tensorflow-datasets
 
 tar -xf code.zip
 
